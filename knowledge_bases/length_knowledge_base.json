@@ -1,0 +1,20 @@
+[
+    {
+        "id": 36,
+        "length": "High",
+        "low_limit": 100,
+        "top_limit": 500
+    },
+    {
+        "id": 37,
+        "length": "Medium",
+        "low_limit": 60,
+        "top_limit": 99
+    },
+    {
+        "id": 38,
+        "length": "Short",
+        "low_limit": 1,
+        "top_limit": 59
+    }
+]

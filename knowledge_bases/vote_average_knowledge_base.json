@@ -1,0 +1,26 @@
+[
+    {
+        "id": 40,
+        "vote": "High",
+        "low_limit": 8,
+        "top_limit": 10
+    },
+    {
+        "id": 41,
+        "vote": "Medium",
+        "low_limit": 6,
+        "top_limit": 7.9
+    },
+    {
+        "id": 42,
+        "vote": "Low",
+        "low_limit": 4,
+        "top_limit": 5.9
+    },
+    {
+        "id": 43,
+        "vote": "Very Low",
+        "low_limit": 0,
+        "top_limit": 3.9
+    }
+]
