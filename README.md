@@ -1,1 +1,1 @@
-# super-dupercouscous
+# super-duper-couscous
